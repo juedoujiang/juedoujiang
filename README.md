@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @juedoujiang
-- 👀 I’m interested in you
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking for a job
-- 📫 Here's how to reach me: WeiXin:Juedoujiang
+- 🌱 I’m currently learning angular
+- 📫 Here's how to reach me: WeiXin:juedoujiang
 
 <!---
 juedoujiang/juedoujiang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
